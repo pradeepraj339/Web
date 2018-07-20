@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.pdeveloper.myapp"
+        versionCode = "1" 
+        version     = "1.0.0" >
+ 
+    <!-- versionCode is Android only -->
+    <!-- version is in major.minor.patch format --> 
+    <name>Amaravati</name>
+ 
+    <description>
+        An example for phonegap build app which wont show up in the playstore. 
+    </description>
+ 
+    <author href="https://amaravati.sg" email="pradeeprajcse339.com">
+        Name Of The Author
+    </author>
+ 
+</widget>
